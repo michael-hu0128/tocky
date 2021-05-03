@@ -1,3 +1,5 @@
+# FITLERING ONE .DAT FILE FROM THE FOLDER HOLDING PROPERTY DATA FOR THE WEEK.
+
 import psycopg2
 from config import config
 
